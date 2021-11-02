@@ -1,5 +1,5 @@
 {
-  "name": "esqueleto-api",
+  "name": "companies-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
